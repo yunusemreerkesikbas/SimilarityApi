@@ -35,5 +35,6 @@ const LargeHeading: FC<LargeHeadingProps> = ({
     </h1>
   );
 };
+LargeHeading.displayName = "LargeHeading";
 
 export default LargeHeading;
