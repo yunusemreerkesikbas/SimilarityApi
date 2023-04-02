@@ -1,6 +1,9 @@
 # Similarity API
 
-A project to learn modern full-stack development made by [Josh](https://github.com/joschan21).
+A project to learn modern full-stack development made by [Josh](https://github.com/joschan21)
+
+
+Live demo: https://similarity-api-ytt.vercel.app/
 
 ## Features
 
